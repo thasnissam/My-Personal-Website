@@ -1,0 +1,42 @@
+.hi {
+    font-size:100px; /* Increased font size */
+    font-weight: bold;
+    display: flex;
+    align-items: center; /* Aligns Hi, with the GIF */
+    font-family:cursive;
+}
+
+.welcome-gif {
+    height: 300px; /* Adjust size as needed */
+    margin-left: 10px; /* Adds small space between Hi, and GIF */
+}
+.summary-font{
+    font-family: cursive;
+    padding-left: 3px;
+    color: rgb(29, 27, 27);
+    font-size: 18px;
+}
+.summary{
+    padding: 10px;
+}
+#home-section{
+    background-color: white
+}
+.summary-font1{
+    font-weight: bold;
+    font-family: cursive;
+}
+.nav-link{
+    font-family: cursive;
+    color: #f3ebeb;
+}
+.body{
+    background-color: black;
+}
+.copyright{
+    color: white;
+}
+
+.social{
+    height: 50px;
+}
